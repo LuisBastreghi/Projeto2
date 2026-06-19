@@ -1,5 +1,5 @@
 Introdução
-Este repositório contém o desenvolvimento do Projeto 2 da disciplina SEL0433 - Aplicação de Microprocessadores. O objetivo deste trabalho foi projetar o hardware e o firmware de um dispositivo para aferição de temperatura interna de um forno industrial, em conjunto com um sistema de contagem regressiva de tempo pré-determinado pelo usuário. O projeto foi implementado utilizando o microcontrolador PIC18F4550 da Microchip e validado através do simulador SimulIDE.
+O objetivo deste trabalho foi projetar o hardware e o firmware de um dispositivo para aferição de temperatura interna de um forno industrial, em conjunto com um sistema de contagem regressiva de tempo pré-determinado. O projeto foi implementado utilizando o microcontrolador PIC18F4550 da Microchip e validado através do simulador SimulIDE.
 
 Arquitetura de Hardware
 O circuito foi projetado para interagir com múltiplos periféricos simultâneos, exigindo a alocação correta dos pinos do microcontrolador para evitar conflitos:
